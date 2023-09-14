@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="vss-init-general.js"></script>
+    <script src="vss-init-widget-initialization.js" data-widget-id="EstimatedCompleted" data-widget-uri="widgets-estimated-completed-widget"></script>
+    <style>
+        canvas#chart { float: left; width: 100%; height: calc(100% - 51px) !important; }
+        div.title { display: inline-block; width: 59%; }
+        div.title-area { width: 100%; display: inline-flex; }
+    </style>
+</head>
+<body>
+    <div class="widget" id="widget-body">
+        <div class="title-area" id="title-area">
+            <div class="title">
+                <div class="inner-title" id="title">Work per day</div>
+                <div class="subtitle" id="sub-title"></div>
+            </div>
+        </div>
+        <canvas id="chart"></canvas>
+    </div>
+</body>
+</html>
