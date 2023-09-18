@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "EstimatedCompletedExtension",
     "publisher": "AltamirJuniorDias",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "name": "Estimated x Completed",
     "description": "Estimated x Completed",
     "public": true,
@@ -37,7 +37,7 @@
                 "description": "Estimated x Completed",
                 "catalogIconUrl": "images/icon.png",
                 "previewImageUrl": "images/icon.png",
-                "uri": "widgets-estimated-completed-widget.html",
+                "uri": "widget.html",
                 "supportedSizes": [
                     {
                         "rowSpan": 3,
@@ -92,7 +92,7 @@
             "properties": {
                 "name": "Estimated x Completed - Configuration",
                 "description": "Estimated x Completed - Configuration",
-                "uri": "widgets-estimated-completed-configuration.html"
+                "uri": "configuration.html"
             }
         }
     ],
