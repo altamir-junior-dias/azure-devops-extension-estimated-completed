@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "EstimatedCompletedExtension",
     "publisher": "AltamirJuniorDias",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "name": "Estimated x Completed",
     "description": "Estimated x Completed",
     "public": true,
